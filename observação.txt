@@ -1,0 +1,3 @@
+//O erro pode ser no js ou <script>
+//fechar divs 
+//Melhorar Png
